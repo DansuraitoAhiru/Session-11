@@ -11,7 +11,7 @@ int main() {
     scanf("%s", search);
 
     for (i = 0; i < size; i++) {
-        if (strcmp(arr[i], search) == 0) { // So sánh chu?i
+        if (strcmp(arr[i], search) == 0) { // So sÃ¡nh chu?i
             printf("Tim thay \"%s\" tai vi tri %d\n", search, i);
             found = 1;
             break;
