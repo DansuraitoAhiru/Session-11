@@ -8,7 +8,7 @@ int main() {
         return 0;
     }
 
-    int max1, max2; // max1: l?n nh?t, max2: l?n th? hai
+    int max1, max2; 
     int i;
 
     if (arr[0] > arr[1]) {
@@ -38,3 +38,4 @@ int main() {
 
     return 0;
 }
+
